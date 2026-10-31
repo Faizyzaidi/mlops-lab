@@ -1,2 +1,5 @@
-# mlops-lab
-ML
+[Lab1_MLOps_Reproducibility_Mohd_Faizy.pdf](Output/Lab1_MLOps_Reproducibility_Mohd_Faizy.pdf)
+
+[Lab2_Data_Versioning_and_Validation_Mohd_Faizy.pdf](Output/Lab2_Data_Versioning_and_Validation_Mohd_Faizy.pdf)
+
+[Lab3_Experiment_Tracking_and_Model_Management_Mohd_Faizy.pdf](Output/Lab3_Experiment_Tracking_and_Model_Management_Mohd_Faizy.pdf)# mlops-lab
